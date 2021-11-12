@@ -29,3 +29,6 @@ body{
        font-weight: 500px;
        font-size: 18px;
    }
+   .form-check-label{
+       color: red;
+   }
