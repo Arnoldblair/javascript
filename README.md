@@ -28,4 +28,4 @@ I am Arnoldblair Munene ,a student at Moringa school.
 
 ### License
 
-This software is under the [MIT](LICENSE)Copyright (c) {2021} 
+This software is under the [MIT](license)Copyright (c) {2021} 
