@@ -21,3 +21,11 @@ body{
        margin-right: 16%;
        border-radius: 10px;
    }
+   .form{
+       margin-bottom: 20px;
+       padding-bottom: 20px;
+   }
+   .form-group{
+       font-weight: 500px;
+       font-size: 18px;
+   }
