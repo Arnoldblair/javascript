@@ -32,3 +32,24 @@ body{
    .form-check-label{
        color: red;
    }
+   .card{
+       background-color: rosybrown;
+   }
+   .card-deck{
+       padding-bottom: 20px;
+       font-weight: 500px;
+       font-family: sans-serif;
+       font-size: 18px;
+   }
+   .card-text{
+    padding-bottom: 10px;
+    font-weight: 500px;
+    font-family: sans-serif;
+    font-size: 18px;
+   }
+   .card1-text{
+    padding-bottom: 20px;
+    font-weight: 500px;
+    font-family: sans-serif;
+    font-size: 18px;
+   }
