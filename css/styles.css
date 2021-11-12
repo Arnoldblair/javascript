@@ -57,3 +57,6 @@ body{
        color: green;
 
    }
+   .footer-copyright a:hover{
+       color :rgb( 254,254,254);
+   }
